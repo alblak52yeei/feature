@@ -25,15 +25,15 @@ To install My Project, follow these steps:
 
 1. Clone the repository::
 
-      git clone https://github.com/yourusername/myproject.git
+      git clone https://github.com/alblak52yeei/feature.git
 
 2. Navigate to the project directory::
 
-      cd myproject
+      cd feature
 
 3. Install the required dependencies::
 
-      pip install -r requirements.txt
+      pip install -r docs/requirements.txt
 
 Usage
 =====
