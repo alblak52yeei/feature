@@ -1,8 +1,8 @@
-.. My Project documentation master file, created by
-   sphinx-quickstart on Tue Oct 10 09:00:00 2023.
-
 Welcome to My Project's documentation!
 ======================================
+
+My Project is a Python-based application designed to simplify data processing and analysis.
+This documentation provides an overview of the project, installation instructions, usage examples, and API reference.
 
 .. toctree::
    :maxdepth: 2
@@ -40,13 +40,13 @@ Usage
 
 To use My Project, run the following command::
 
-   python .\TestingMocks\main.py
+   python TestingMocks/main.py
 
 API Reference
 =============
 
-.. automodule:: TestingMocks/main.py
+.. automodule:: TestingMocks.main
    :members:
 
-.. automodule:: TestingMocks/cli-client.py
+.. automodule:: TestingMocks.cli_client
    :members:
