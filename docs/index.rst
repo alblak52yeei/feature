@@ -45,15 +45,8 @@ To use My Project, run the following command::
 API Reference
 =============
 
-.. automodule:: ./TestingMocks/main
+.. automodule:: TestingMocks/main
    :members:
 
-.. automodule:: ./TestingMocks/cli-client
+.. automodule:: TestingMocks/cli-client
    :members:
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
