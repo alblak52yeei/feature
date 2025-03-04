@@ -1,18 +1,59 @@
-Добро пожаловать в документацию моего проекта!
-==============================================
+.. My Project documentation master file, created by
+   sphinx-quickstart on Tue Oct 10 09:00:00 2023.
 
-Этот проект предоставляет инструменты для работы с данными.
-В документации вы найдете информацию о том, как установить и использовать проект.
+Welcome to My Project's documentation!
+======================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Содержание:
+   :caption: Contents:
 
    introduction
    installation
    usage
    api
-   contributing
-   changelog
 
-* `GitHub репозиторий <https://github.com/alblak52yeei/feature>`_
+Introduction
+============
+
+This is the documentation for My Project, a Python-based application designed to...
+
+Installation
+============
+
+To install My Project, follow these steps:
+
+1. Clone the repository::
+
+      git clone https://github.com/yourusername/myproject.git
+
+2. Navigate to the project directory::
+
+      cd myproject
+
+3. Install the required dependencies::
+
+      pip install -r requirements.txt
+
+Usage
+=====
+
+To use My Project, run the following command::
+
+   python .\TestingMocks\main.py
+
+API Reference
+=============
+
+.. automodule:: ./TestingMocks/main
+   :members:
+
+.. automodule:: ./TestingMocks/cli-client
+   :members:
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
