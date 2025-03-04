@@ -45,8 +45,8 @@ To use My Project, run the following command::
 API Reference
 =============
 
-.. automodule:: TestingMocks/main
+.. automodule:: TestingMocks/main.py
    :members:
 
-.. automodule:: TestingMocks/cli-client
+.. automodule:: TestingMocks/cli-client.py
    :members:
