@@ -2,7 +2,7 @@ import os
 import sys
 
 # Добавление пути к вашему проекту
-sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('..'))
 
 # Основные настройки
 project = 'feature'
